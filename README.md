@@ -25,3 +25,5 @@ La aplicación web refleja el mapa de capacidades críticas de Bio-clean estruct
 ## 🚀 Despliegue en Vercel 
 La aplicación se encuentra desplegada y completamente operativa en la nube a través de Vercel.
 👉 **Enlace del Proyecto:** (https://vercel.com/vire245s-projects/bio-clean-wms/3BnjYF1NkkcrqFSWKhBjmtKeSup4)
+npm install
+npm run dev
